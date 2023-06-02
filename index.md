@@ -1,4 +1,3 @@
 # Homework
 
-
-[vacuum aspherical](/Vacuum%20aspherical.md)
+[Device](/device/device.md)
