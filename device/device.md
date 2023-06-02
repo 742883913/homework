@@ -49,14 +49,14 @@ $$\sigma _m=\begin{cases}
 
 5. Solve the equation
    
-$$R_v=1.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-5.34R_m}} \rightarrow R_m=0.922 $$
+   $$R_v=1.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-5.34R_m}} \rightarrow R_m=0.922 $$
 
-<div align="center"><img src="./1.png" width="400"></div>
+   <div align="center"><img src="./1.png" width="400"></div>
 
-$$R_v=3.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-1.5R_m}} \rightarrow R_m=2.15  $$
+   $$R_v=3.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-1.5R_m}} \rightarrow R_m=2.15  $$
 
-<div align="center"><img src="./2.png" width="400"></div>
+   <div align="center"><img src="./2.png" width="400"></div>
 
-$$R_v=7.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-0.48R_m}} \rightarrow R_m=4.068  $$
+   $$R_v=7.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-0.48R_m}} \rightarrow R_m=4.068  $$
 
-<div align="center"><img src="./3.png" width="400"></div>
+   <div align="center"><img src="./3.png" width="400"></div>
