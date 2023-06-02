@@ -28,35 +28,35 @@
 
 4. Calculate $\sigma _m$
 
-$$ q= \begin{cases}
-    0.585(R_v)^{3/2}, R_v \lt6km\\
-    1.3, R_v \gt6km
-\end{cases}$$
+   $$ q= \begin{cases}
+      0.585(R_v)^{3/2}, R_v \lt6km\\
+      1.3, R_v \gt6km
+   \end{cases}$$
 
-$$\sigma _m = \frac{3.192}{R_v}(\frac{0.55}{\lambda})^q$$
+   $$\sigma _m = \frac{3.192}{R_v}(\frac{0.55}{\lambda})^q$$
 
-$$q=\begin{cases}
-    0.585,R_v=1.0\\
-    0.844,R_v=3.0\\
-    1.3,R_v=7.0
-\end{cases}$$
+   $$q=\begin{cases}
+      0.585,R_v=1.0\\
+      0.844,R_v=3.0\\
+      1.3,R_v=7.0
+   \end{cases}$$
 
-$$\sigma _m=\begin{cases}
-    2.67,R_v=1.0\\
-    0.75,R_v=3.0\\
-    0.24,R_v=7.0
-\end{cases}$$
+   $$\sigma _m=\begin{cases}
+      2.67,R_v=1.0\\
+      0.75,R_v=3.0\\
+      0.24,R_v=7.0
+   \end{cases}$$
 
 5. Solve the equation
    
    $$R_v=1.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-5.34R_m}} \rightarrow R_m=0.922 $$
 
-   <div align="center"><img src="./1.png" width="400"></div>
+   <div align="center"><img src="./1.png" width="800"></div>
 
    $$R_v=3.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-1.5R_m}} \rightarrow R_m=2.15  $$
 
-   <div align="center"><img src="./2.png" width="400"></div>
+   <div align="center"><img src="./2.png" width="800"></div>
 
    $$R_v=7.0 \rightarrow 116.618=\frac{R_m ^2}{e^{-0.48R_m}} \rightarrow R_m=4.068  $$
 
-   <div align="center"><img src="./3.png" width="400"></div>
+   <div align="center"><img src="./3.png" width="800"></div>
